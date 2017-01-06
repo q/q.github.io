@@ -1,0 +1,16 @@
+html, body {
+    font-size: 25px;
+    line-height: 45px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #fcfcfc;
+    color: darkslategrey;
+}
+
+#main {
+    width: 800px;
+    margin: 50px auto;
+}
+
+a {
+    color: crimson;
+}
