@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  
-  <!-- background circle -->
-  <circle cx="32" cy="32" r="26" fill="#111418"></circle>
-
-  <!-- lowercase q -->
-  <text x="32" y="33" text-anchor="middle" dominant-baseline="middle" font-family="Inter, sans-serif" font-size="40" font-weight="500" fill="#e8e8e8">
-    q
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+    
+    
+<rect x="36" y="36" width="440" height="440" rx="110" fill="#0F1115"/>
+<path d="M156 181L277 256L156 331V281L221 256L156 231V181Z" fill="#F5F7FA"/>
+<rect x="298" y="307" width="74" height="32" rx="8" fill="#F5F7FA"/>
 
 </svg>
