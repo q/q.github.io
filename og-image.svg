@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" style="background:#0b0d10">
+  <rect width="1200" height="630" fill="#0b0d10"/>
+
+  <text x="80" y="240"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="80" font-weight="700"
+    fill="#e8e8e8"
+    letter-spacing="-1.6">Corey Bertram</text>
+
+  <text x="80" y="320"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="32" font-weight="600"
+    fill="#3aa0ff">CTO.</text>
+
+  <text x="80" y="368"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="28" font-weight="400"
+    fill="#9a9a9a">Product. Teams. Companies.</text>
+
+  <text x="80" y="560"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="20" font-weight="400"
+    fill="#666">qr7.com</text>
+</svg>
